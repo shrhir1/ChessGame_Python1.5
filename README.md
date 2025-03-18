@@ -1,5 +1,8 @@
 # Chess Game
 
+## Date
+August 12, 2022
+
 ## Overview
 This program allows users to input a chess piece and its position on the board to see all its possible valid moves. The board is displayed in the console, and valid move positions are marked.
 
